@@ -1,3 +1,5 @@
+package src;
+
 //review the translation between char and string and integer.
 class Solution {
     public int maximum69Number (int num) {
