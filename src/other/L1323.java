@@ -1,4 +1,4 @@
-package src;
+package other;
 
 //review the translation between char and string and integer.
 class Solution {

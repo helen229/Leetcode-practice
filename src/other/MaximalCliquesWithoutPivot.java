@@ -1,9 +1,10 @@
+package other;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.StringReader;
 import java.util.ArrayList;
-import java.util.Collections;
 
 
 public class MaximalCliquesWithoutPivot {
